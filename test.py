@@ -14,3 +14,6 @@ def guess_odd():
 
 def print_result():
     print('test')
+
+a = 3
+print(f'{a},testtesttest')

@@ -8,7 +8,7 @@
 #       format_version: '1.3'
 #       jupytext_version: 1.14.0
 #   kernelspec:
-#     display_name: Python 3
+#     display_name: Python 3 (ipykernel)
 #     language: python
 #     name: python3
 # ---
@@ -34,4 +34,10 @@ print(f'{a}, test test test')
 # facebook
 
 # %%
-fajli;oljiofjieoa';
+print('Jupytext: Try')
+
+# %% [markdown]
+# # Jupytext is awewsome!
+
+# %%
+print('Great!')

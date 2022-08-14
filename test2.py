@@ -1,2 +1,2 @@
 def print_name():
-    print('test2')
+    print('test12')

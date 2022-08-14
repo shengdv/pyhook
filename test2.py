@@ -1,1 +1,2 @@
-print('test2')
+def print_name():
+    print('test2')
